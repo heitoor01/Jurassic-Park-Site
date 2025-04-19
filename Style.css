@@ -1,0 +1,167 @@
+* {
+    margin: auto;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Roboto&display=swap');
+
+h1, h2 {
+    font-family: 'Anton', sans-serif;
+  }
+
+body {
+    font-family: 'Roboto', sans-serif;
+    background: linear-gradient(to bottom, #1c1c1c, #2e2e2e);
+    color: #f5f5f5;
+}
+
+header {
+    background-color: #781d18;
+    padding: 5px;
+}
+
+nav a{
+    color: #f0f0f0;
+    margin: 0 15px;
+    text-decoration: none;
+    font-weight: bold;
+}
+nav a:hover {
+    color: #f0b83e; /* Jurassic gold! */
+}
+
+.nav-bar {
+    text-align: center;
+}
+
+h1 {
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: center;
+    line-height: 1.6;
+    padding: 20px 20px;
+    font-size: 40px;
+}
+
+.intro-text {
+    max-width: 800px; /* keeps the text in a nice column */
+    margin: 0 auto; /* centers it on the screen */
+    text-align: justify; /* aligns left and right like a book */
+    line-height: 1.6; /* improves spacing between lines */
+    padding: 40px 20px; /* some space around it */
+    font-size: 18px; /* easy to read */
+  }
+  
+  .location-text {
+    max-width: 800px; 
+    margin: 0 auto; 
+    text-align: justify; 
+    line-height: 1.6; 
+    padding: 40px 20px; 
+    font-size: 18px; 
+  }
+  
+  .dino-text {
+    max-width: 800px; 
+    margin: 0 auto; 
+    text-align: justify; 
+    line-height: 1.6; 
+    padding: 40px 20px; 
+    font-size: 18px;
+     
+  }
+  
+  .experience-text {
+      max-width: 800px; 
+      margin: 0 auto; 
+      text-align: justify; 
+      line-height: 1.6; 
+      padding: 40px 20px; 
+      font-size: 18px; 
+  }
+  
+  .vision-text {
+      max-width: 800px; 
+      margin: 0 auto; 
+      text-align: justify; 
+      line-height: 1.6; 
+      padding: 40px 20px; 
+      font-size: 18px; 
+  }
+  
+  .science-text {
+      max-width: 800px; 
+      margin: 0 auto; 
+      text-align: justify; 
+      line-height: 1.6; 
+      padding: 40px 20px; 
+      font-size: 18px; 
+  }
+  
+  .park-text {
+      max-width: 800px; 
+      margin: 0 auto; 
+      text-align: justify; 
+      line-height: 1.6; 
+      padding: 40px 20px; 
+      font-size: 18px; 
+  }
+
+.quote {
+    max-width: 800px; 
+    margin: 0 auto; 
+    text-align: center; 
+    line-height: 1.6; 
+    padding: 40px 20px; 
+    font-size: 18px; 
+}
+
+.tickets-text {
+   text-align: center;
+   background-color: #1a1a1a;
+   padding: 80px 20px;
+   color: #fff;
+}
+
+.tickets-text h2 {
+    font-size: 36px;
+    margin-bottom: 20px;
+    font-family: 'Anton', sans-serif;
+}
+
+.tickets-text p {
+    font-size: 18px;
+    margin-bottom: 40px;
+    font-family: 'Roboto', sans-serif;
+  }
+
+.ticket-button {
+    background-color: #d32f2f;
+    color: #fff;
+    padding: 15px 40px;
+    font-size: 18px;
+    text-decoration: none;
+    border-radius: 10px;
+    font-weight: bold;
+    transition: background-color 0.3s ease;
+    margin-top: 20px;
+}
+
+.ticket-button:hover {
+    background-color: #ff5252;
+}
+
+.space-text {
+    margin-bottom: 10px;
+}
+
+footer {
+    background-color: #781d18;
+    color: white;
+
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;   
+}
