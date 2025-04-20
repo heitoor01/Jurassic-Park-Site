@@ -4,6 +4,13 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Anton&family=Roboto&display=swap');
 
+.logo {
+    width: 250px;
+    height: auto;
+    padding: 10px 10px 20px 20px;
+    
+}
+
 h1, h2 {
     font-family: 'Anton', sans-serif;
   }
@@ -165,3 +172,48 @@ table {
     border-collapse: collapse;
     margin: 20px 0;   
 }
+
+/* Tickets page */
+
+.main-text {
+    max-width: 800px; 
+    margin: 0 auto; 
+    text-align: justify; 
+    line-height: 1.6; 
+    padding: 40px 20px; 
+    font-size: 18px; 
+}
+
+.ticket-table {
+    width: 60%;
+    border-collapse: collapse;
+    margin: 0 auto;
+    margin-bottom: 20px;
+    font-size: 18px;
+    border: 2px #781d18;  
+    text-align: left; 
+}
+
+th, td {
+    padding: 10px;
+    border: 2px solid #781d18; 
+    text-align: center;
+}
+
+.ticket-name {
+    text-align: left;
+}
+
+.ticket-benefits {
+    padding: 33px;
+    background-color: #1a1a1a;
+    text-align: justify; 
+
+}
+
+.ticket-benefits h2 {
+    font-size: 36px;
+    margin-bottom: 20px;
+    font-family: 'Anton', sans-serif;
+}
+
