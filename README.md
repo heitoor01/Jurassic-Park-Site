@@ -64,7 +64,7 @@ This project is part of my web development learning journey and was created usin
 > 🌍 Coming soon on GitHub Pages  
 > (Once it's published, I’ll paste the link here!)
 
-## 📦 Tech Stack
+## 🛠️ Tech Stack
 
 - HTML5
 - CSS3
@@ -76,10 +76,6 @@ I wanted to:
 - Practice my front-end development skills
 - Create something fun and creative
 - Have a project to share on my [LinkedIn](https://www.linkedin.com/in/heitor-fialho-515235296/)
-
-## 📸 Preview
-
-*(Insert screenshot here if you want!)*
 
 ## 🧠 What I Learned
 
